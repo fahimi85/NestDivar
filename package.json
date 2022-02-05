@@ -1,9 +1,9 @@
 {
-  "name": "session06",
+  "name": "nestdivar",
   "version": "0.0.1",
   "description": "",
   "author": "jafar fahimi",
-  "private": true,
+  "private": false,
   "types": "dist/*.d.ts",
   "license": "UNLICENSED",
   "scripts": {
