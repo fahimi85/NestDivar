@@ -1,0 +1,1 @@
+{"version":3,"file":"translate.module.js","sourceRoot":"","sources":["../../src/translate/translate.module.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAAwC;AACxC,2DAAuD;AAMvD,IAAa,eAAe,GAA5B,MAAa,eAAe;CAAG,CAAA;AAAlB,eAAe;IAJ3B,IAAA,eAAM,EAAC;QACN,SAAS,EAAE,CAAC,oCAAgB,CAAC;QAC7B,OAAO,EAAE,CAAC,oCAAgB,CAAC;KAC5B,CAAC;GACW,eAAe,CAAG;AAAlB,0CAAe"}

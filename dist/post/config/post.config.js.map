@@ -1,0 +1,1 @@
+{"version":3,"file":"post.config.js","sourceRoot":"","sources":["../../../src/post/config/post.config.ts"],"names":[],"mappings":";;AAAA,2CAA4C;AAE5C,kBAAe,IAAA,mBAAU,EAAC,MAAM,EAAE,GAAG,EAAE;IACrC,OAAO;QACL,QAAQ,EAAE,OAAO,CAAC,GAAG,CAAC,QAAQ;QAC9B,gBAAgB,EAAE,OAAO,CAAC,GAAG,CAAC,kBAAkB;KACjD,CAAC;AACJ,CAAC,CAAC,CAAC"}
